@@ -1,4 +1,4 @@
-Having good data in term both quality and quantity is very important for data analysis.
+Having good data in terms of both quality and quantity is very important for data analysis.
 So, the ability to scraping data from the web is helpful.
 
 In this repo I will add Python scripts to scrape public data from various sources.
